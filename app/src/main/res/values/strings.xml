@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dynamic List</string>
+    <string name="add_in_list">Add in list</string>
+    <string name="enter_item">Enter item</string>
+</resources>
